@@ -12,3 +12,5 @@ a. https://www.kaggle.com/datasets/parulpandey/emotion-dataset?select=test.csv<b
 b. https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text/data<br>
 </p>
 
+* NOTE: Pre processing task is not completed yet *
+
