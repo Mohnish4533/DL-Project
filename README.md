@@ -38,7 +38,7 @@ pip install python-dotenv
 pip install requests
 pip install json
 </pre>
-2. At 'App.py' directory add a file named '.env'. In this file type the below code: 
+2. At './Music_recommendation_System/App.py' directory add a file named '.env'. In this file type the below code: 
 <pre> 
 CLIENT_ID = <client_id_in_quotes> # mention your spotify api client id
 CLIENT_SECRET = <client_secret_in_quotes> # mention your spotify api client secret in codes
